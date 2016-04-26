@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="2faa6944-0932-4226-9a25-e40a89cb24f9" 
+        solutionId="2faa6944-0932-4226-9a25-e40a89cb24f9" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Praba_DeveloperReff"
+        sharePointProductVersion="15.0">
+</package>
